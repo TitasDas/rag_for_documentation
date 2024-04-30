@@ -24,23 +24,6 @@ Our project, **"LlamaWorksDB"** ,was awarded 🏆 the  **"Best use of LlamaIndex
 
 LlamaWorksDB leverages the LlamaIndex, Fireworks, MongoDB documentation, git repositories, and cookbooks, along with the llamaParse API, to parse and represent files for efficient retrieval and context augmentation. The Fireworks model(nomic-ai/nomic-embed-text-v1.5) is used for embeddings with a dimension of 768.
 
-## 👥 Team Members
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github.com/clab2024/clab/assets/2089311/55c4ac49-67bc-42ed-b486-3bf9710ace94" width="300">
-    </td>
-  <td>
-    <img src="https://github.com/clab2024/clab/assets/2089311/bc247980-600f-404f-8069-95d918742676" width="300">
-    </td>
-  </tr>
-</table>
-      - Chris<br>
-      - Leo<br>
-      - Andrew<br>
-      - Barath [Twitter](https://twitter.com/baraths84)
-
 ## 🎥 Presentation
 
 You can view our project presentation [here](https://docs.google.com/presentation/d/1Lrh9lr5KSHSxeS6SAg3rC75AUWI0VYrKnUFPUV93jBg/edit?usp=sharing).
