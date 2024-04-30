@@ -6,7 +6,10 @@
 
 The MongoDB GenAI Hackathon SanFranc was a grand event with over 100+ participants forming 20+ teams. The teams competed fiercely, showcasing their innovative projects and technical prowess.
 
-LlamaWorksDB is a Retrieval Augmented Generation (RAG) product designed to interact with the documentation of various products such as LlamaIndex, Fireworks, MongoDB, git repositories, and cookbooks. This project was developed by team CLAB (Chris, Leo, Andrew, Barath)
+LlamaWorksDB is a Retrieval Augmented Generation (RAG) product designed to interact with the documentation of various products such as LlamaIndex, Fireworks, MongoDB, git repositories, and cookbooks. This project was developed by team CLAB (Chris, Leo, Andrew, Barath) originally and was continued by the following contributors. 
+
+## Contributors of Rag_for_documentation
+
 
 ## 🏆 Award
 
